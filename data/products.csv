@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Price
+1,Smartphone,Electronics,91.31
+2,Laptop,Electronics,468.75
+3,Tablet,Electronics,158.87
+4,Headphones,Electronics,35.74
+5,Smartwatch,Electronics,340.73
+6,Camera,Electronics,149.17
+7,TV,Electronics,322.37
+8,Bluetooth Speaker,Electronics,13.11
+9,Desktop Computer,Electronics,401.78
+10,Monitor,Electronics,172.28
+11,Refrigerator,Home & Kitchen,196.5
+12,Microwave,Home & Kitchen,50.89
+13,Toaster,Home & Kitchen,411.06
+14,Coffee Maker,Home & Kitchen,145.95
+15,Vacuum Cleaner,Home & Kitchen,314.26
+16,Blender,Home & Kitchen,172.21
+17,Rice Cooker,Home & Kitchen,129.59
+18,Air Fryer,Home & Kitchen,465.38
+19,Oven,Home & Kitchen,73.95
+20,Mixer,Home & Kitchen,370.36
+21,Mystery Novel,Books,126.06
+22,Science Fiction,Books,252.18
+23,History Book,Books,491.14
+24,Fantasy Novel,Books,21.93
+25,Biography,Books,434.65
+26,Self-help Book,Books,270.62
+27,Cook Book,Books,166.22
+28,Children�s Book,Books,171.21
+29,Art Book,Books,467.88
+30,Travel Guide,Books,466.85
+31,T-Shirt,Clothing,437.47
+32,Jeans,Clothing,286.23
+33,Jacket,Clothing,37.71
+34,Dress,Clothing,170.79
+35,Sneakers,Clothing,204.97
+36,Sandals,Clothing,410.14
+37,Hat,Clothing,31.69
+38,Scarf,Clothing,415.4
+39,Gloves,Clothing,464.68
+40,Socks,Clothing,134.75
+41,Tennis Racket,Sports & Outdoors,76.49
+42,Basketball,Sports & Outdoors,52.89
+43,Soccer Ball,Sports & Outdoors,425.16
+44,Yoga Mat,Sports & Outdoors,485.92
+45,Dumbbells,Sports & Outdoors,171.52
+46,Resistance Bands,Sports & Outdoors,428.97
+47,Treadmill,Sports & Outdoors,315.56
+48,Exercise Bike,Sports & Outdoors,151.18
+49,Swimming Goggles,Sports & Outdoors,420.32
+50,Hiking Backpack,Sports & Outdoors,453.35
+51,Gaming Console,Electronics,152.59
+52,Mouse,Electronics,72.46
+53,Keyboard,Electronics,36.12
+54,Printer,Electronics,35.11
+55,Router,Electronics,73.15
+56,Web Camera,Electronics,319.54
+57,External Hard Drive,Electronics,130.37
+58,USB Flash Drive,Electronics,196.25
+59,Memory Card,Electronics,435.66
+60,Power Bank,Electronics,340.62
+61,Electric Kettle,Home & Kitchen,394.92
+62,Pressure Cooker,Home & Kitchen,72.1
+63,Cutting Board,Home & Kitchen,119.9
+64,Knife Set,Home & Kitchen,124.08
+65,Food Processor,Home & Kitchen,157.68
+66,Salad Spinner,Home & Kitchen,336.89
+67,Ice Cream Maker,Home & Kitchen,172.65
+68,Food Dehydrator,Home & Kitchen,93.92
+69,Water Filter,Home & Kitchen,381.76
+70,Egg Cooker,Home & Kitchen,436.68
+71,Comic Book,Books,12.73
+72,Graphic Novel,Books,298.41
+73,Poetry Book,Books,349.83
+74,Math Book,Books,328.28
+75,Psychology Book,Books,211.49
+76,Adventure Novel,Books,62.16
+77,Philosophy Book,Books,151.42
+78,Gardening Book,Books,200.48
+79,Physics Book,Books,174.39
+80,Chemistry Book,Books,374.44
+81,Skirt,Clothing,93.14
+82,Sweater,Clothing,422.78
+83,Shorts,Clothing,360.38
+84,Swimwear,Clothing,19.37
+85,Pajamas,Clothing,240.18
+86,Dress Shirt,Clothing,45.13
+87,Belt,Clothing,191.78
+88,Sunglasses,Clothing,418.39
+89,Tie,Clothing,262.37
+90,Raincoat,Clothing,220.6
+91,Skiing Helmet,Sports & Outdoors,333.33
+92,Golf Clubs,Sports & Outdoors,98.13
+93,Fishing Rod,Sports & Outdoors,104.04
+94,Camping Tent,Sports & Outdoors,431.29
+95,Sleeping Bag,Sports & Outdoors,274.4
+96,Water Bottle,Sports & Outdoors,203.14
+97,Climbing Shoes,Sports & Outdoors,432.76
+98,Surfboard,Sports & Outdoors,481.43
+99,Snowboard,Sports & Outdoors,64.24
+100,Kayak,Sports & Outdoors,270.01

@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controllers/analyticscontroller.ts","./src/models/product.ts","./src/models/sale.ts","./src/services/analyticsservice.ts","./src/services/importdataservice.ts"],"version":"5.7.2"}
