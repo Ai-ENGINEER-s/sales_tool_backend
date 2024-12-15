@@ -1,23 +1,15 @@
 {
-    "version": 2,
-    "builds": [
-      {
-        "src": "backend/src/index.ts",
-        "use": "@vercel/node",
-        "config": {
-          "maxLambdaSize": "50mb",
-          "tsconfig": "tsconfig.json"
-        }
-      }
-    ],
-    "env": {
-      "DATABASE_URL": "mongodb+srv://barryasanoussa19:b0fg5hqdarGeJ9xy@promptshareapplication.g9b2v.mongodb.net/?retryWrites=true&w=majority&appName=PromptShareApplication"
-    },
-    "routes": [
-      {
-        "src": "/api/(.*)",
-        "dest": "/backend/src/index.ts"
-      }
-    ]
-  }
-  
+  "version": 2,
+  "builds": [
+    {
+      "src": "backend/src/index.ts",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "/backend/src/index.ts"
+    }
+  ]
+}
