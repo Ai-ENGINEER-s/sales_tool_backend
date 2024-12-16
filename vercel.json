@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "dist/index.js",
+        "use": "@vercel/node"
+      }
+    ],
+    "env": {
+      "DATABASE_URL": "mongodb+srv://barryasanoussa19:b0fg5hqdarGeJ9xy@promptshareapplication.g9b2v.mongodb.net/?retryWrites=true&w=majority&appName=PromptShareApplication"
+    }
+  }
+  
