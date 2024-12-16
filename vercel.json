@@ -6,8 +6,14 @@
         "use": "@vercel/node"
       }
     ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "dist/index.js"
+      }
+    ],
     "env": {
-      "DATABASE_URL": "mongodb+srv://barryasanoussa19:b0fg5hqdarGeJ9xy@promptshareapplication.g9b2v.mongodb.net/?retryWrites=true&w=majority&appName=PromptShareApplication"
+      "DATABASE_URL": "@database_url"
     }
   }
   
