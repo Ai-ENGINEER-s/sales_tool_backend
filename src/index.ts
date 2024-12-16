@@ -38,7 +38,7 @@ app.get('/category-sales', analyticsController.getCategorySales);
 app.get('/products-with-sales', analyticsController.getProductsWithSales);
 
 // Démarrer le serveur
-const port:number= 4000; 
+const port = process.env.PORT || 4000;
 app.listen(port, () => {
   console.log(`Serveur démarré sur le port ${port}`);
 });
